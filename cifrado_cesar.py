@@ -9,7 +9,7 @@ while True:
     else:
         abc="abcdefghijklmnñopqrstuwxyz" #PARA MINUSCULAS
 
-    k=int(input("Valor de desplazamiento: "))
+    k=OKI(input("Valor de desplazamiento: "))
     cifrad=""
     
     for c in texto:
